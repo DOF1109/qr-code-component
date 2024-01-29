@@ -27,8 +27,7 @@ Desktop:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL: [https://dof1109.github.io/qr-code-component/](https://dof1109.github.io/qr-code-component/)
 
 ## My process
 
